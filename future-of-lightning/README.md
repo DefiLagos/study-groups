@@ -13,8 +13,10 @@
 [Eltoo and the Far Future](https://diyhpl.us/wiki/transcripts/chaincode-labs/2019-09-18-christian-decker-eltoo/) | 30 min | eltoo |
 [Splicing](https://youtu.be/ZzSveBMtUGI) | 22 min | BOLTs, video |
 [Multi-party channels/Channel factories](https://youtu.be/PUDWGH_MvmQ) | 13 min | BOLTs, video |
-[Rendezvous Routing](https://youtu.be/Ms2WwRzBdkM) | 8 min | BOLTs, video |
 [Dual funded channels](https://youtu.be/5wQUMtgsnPs) | 35 min | BOLTs, video |
+[Payment Points: Replacing HTLCs](https://suredbits.com/payment-points-part-1/) | 10 min | payment points |
+[Payment Points: "Stuckless" Payments](https://suredbits.com/payment-points-part-2-stuckless-payments/) | 10 min | payment points |
+
 
 ## Discussion Questions
 
